@@ -5,7 +5,7 @@ int main()
 {
     for(int i=0;i<5;i++)
     {
-    cout<<"hello vscode world"<<endl;
+    cout<<"hello vscode"<<endl;
     }
     return 0;
 } 
